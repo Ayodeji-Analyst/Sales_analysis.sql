@@ -2,6 +2,7 @@
 📊 Sales Data Analysis — SQL Project
 An end-to-end SQL analysis of a sales dataset, exploring revenue trends, customer behavior, product performance, and operational health.
 🗂️ Dataset
+Dataset is proprietary and not included. The SQL queries can be adapted to any similar sales dataset.
 Table: analystlab_intern.sales_data_sample
 Key columns: PRODUCTLINE, ORDERNUMBER, SALES, YEAR_ID, MONTH_ID, CUSTOMERNAME, STATUS, DEALSIZE, MSRP, PRICEEACH, QUANTITYORDERED, STATE, COUNTRY
 
